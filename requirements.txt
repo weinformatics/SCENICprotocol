@@ -1,4 +1,4 @@
-cmake==3.18.4
+cmake
 anndata==0.6.22.post1
 annoy==1.15.2
 ansiwrap==0.8.4
